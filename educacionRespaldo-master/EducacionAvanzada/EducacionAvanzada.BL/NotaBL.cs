@@ -24,4 +24,5 @@ namespace EducacionAvanzada.BL
 
             return ListadeNota;
         }
+    }
 }
